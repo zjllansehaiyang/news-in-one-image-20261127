@@ -43,18 +43,25 @@ paper's issue date) were checked and rejected.
   across most of Victoria, eastern Tasmania and large parts of South
   Australia, Western Australia, New South Wales and the Northern Territory.
 
-## 4. Earth's rivers and lakes shrank in record heat — Global · Science
+## 4. NZ coalition falls one seat short in final count — New Zealand, Oceania · Politics
 
-- Headline used: "EARTH'S RIVERS AND LAKES SHRANK IN RECORD HEAT"
-- Outlet: The Guardian — "Water levels fell sharply in world's rivers and
-  lakes in two hottest years on record, study finds"; paper: "Abrupt surface
-  water decline during 2023–2024 record warming", Science,
-  doi 10.1126/science.aei2575 (Zhang, Blöschl et al.).
-- URL: https://dailyfoxnews.com/news/38809/water-levels-fell-sharply-in-world-s-rivers-and-lakes-in-two-hottest-years-on
-- Dateline as shown: Guardian report published 2026-11-26T20:47:34Z, i.e.
-  the morning of Friday 27 November across Asia-Pacific. Global river flow
-  in 2023–24 ran about 5.7% below the long-term average; lake and reservoir
-  storage fell about 9.5% — the sharpest joint decline since at least 1991.
+- Headline used: "NZ COALITION FALLS ONE SEAT SHORT"
+- Outlets: Reuters — "New Zealand's ruling coalition falls just short of
+  majority in final election count"; Associated Press — "Deadlocked final
+  result in New Zealand's election leaves a centrist newcomer as the decider".
+- URLs: https://www.reuters.com/world/asia-pacific/new-zealands-ruling-coalition-falls-just-short-majority-final-election-count-2026-11-27/
+  and https://gmg-kprc-prod.cdn.arcpublishing.com/news/world/2026/11/27/final-count-in-new-zealands-election-gives-neither-right-nor-left-bloc-enough-seats-for-a-majority/
+  (release timing corroborated by Farmers Weekly: results "released at 2pm
+  on Friday").
+- Dateline as shown: the Electoral Commission's official final count was
+  released on Friday 27 November 2026, New Zealand time (~2pm NZT); the AP
+  report is datelined Wellington, Friday, Nov. 27, 2026. The ruling
+  centre-right coalition — National 40, ACT 13, NZ First 12 — totals 65 of
+  130 seats, one short of the 66 needed for a majority; Labour won 36; the
+  first-time entrant Opportunity won 7 seats and holds the balance of power.
+  The final tally includes 484,865 special votes. (This tile replaced the
+  rivers-and-lakes study in the resubmitted version: its 27 November
+  dateline is direct, not timezone-dependent.)
 
 ## 5. Flu admissions soar across England — Europe · Health
 
