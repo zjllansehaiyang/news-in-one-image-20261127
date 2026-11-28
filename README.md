@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261127/zjllansehaiyang/news-in-one-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 [![reward](https://make.fun/badge/news-image-20261127/zjllansehaiyang/news-in-one-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 
-One poster that sums up Friday 27 November 2026: an EU budget summit in Brussels ending without a deal, record rain and evacuation orders in Okinawa, Australia's seasonal outlook warning of a dangerous bushfire summer, New Zealand's final election count leaving the ruling coalition one seat short of a majority, and flu admissions soaring across England. Five stories across three continents, drawn as a single 1024×1024 newspaper front page with the date impossible to miss. Every story is documented with its source and dateline in SOURCES.md.
+One poster that sums up Friday 27 November 2026: an EU budget summit in Brussels ending without a deal, record rain and evacuation orders in Okinawa, Australia's seasonal outlook warning of a dangerous bushfire summer, New Zealand's final election count leaving the ruling coalition one seat short of a majority, and US forces disabling a freighter that tried to run the Iran blockade in the Gulf of Oman. Five stories across three continents, drawn as a single 1024×1024 newspaper front page with the date impossible to miss. Every story is documented with its source and dateline in SOURCES.md.
 
 ## Run it
 

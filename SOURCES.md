@@ -63,13 +63,26 @@ paper's issue date) were checked and rejected.
   rivers-and-lakes study in the resubmitted version: its 27 November
   dateline is direct, not timezone-dependent.)
 
-## 5. Flu admissions soar across England — Europe · Health
+## 5. US disables ship breaching Iran blockade — Gulf of Oman, Asia · Conflict
 
-- Headline used: "FLU ADMISSIONS SOAR ACROSS ENGLAND"
-- Outlet: UK Health Security Agency weekly figures, leading the Daily
-  Telegraph front page of Friday 27 November 2026 ("record flu season");
-  reported 27 Nov 2026.
-- URL: https://tafs.uz/en/tags/united-kingdom
-- Dateline as shown: 27 Nov 2026. Flu hospitalisations in England rose
-  nearly 80% in a week, to the highest level for this time of year since
-  the start of the Covid pandemic; the NHS urges vaccination.
+- Headline used: "US DISABLES SHIP BREACHING IRAN BLOCKADE"
+- Outlets: Associated Press — "US military says it disabled another ship
+  that tried to breach naval blockade on Iranian ports"; Reuters — "US
+  disables ship trying to leave Iran, as Tehran vows to confront blockade".
+- URLs: https://www.military.com/us-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports
+  and https://www.reuters.com/world/middle-east/us-disables-ship-trying-leave-iran-tehran-vows-confront-blockade-2026-11-27/
+- Dateline as shown: US Central Command announced the disablement on
+  Friday 27 November 2026, and AP and Reuters reported it the same day;
+  the strike itself took place on Thursday 26 November. The poster frames
+  the story as Friday's announcement and escalation ("Central Command
+  confirms the strike Friday") and does not claim the strike happened on
+  the 27th. A US military aircraft fired precision munitions into the
+  stern of the Palau-flagged bulk carrier M/V Pacific Archer in the Gulf
+  of Oman after it departed the Iranian port of Bandar Abbas and
+  attempted to run the US naval blockade of Iranian ports, despite
+  multiple warnings; the ship's propulsion was disabled and the civilian
+  crew was unharmed. It was the sixth ship disabled since the blockade
+  resumed (in July) and at least the 15th disclosed since the blockade
+  began in the spring. The same day, Mohammad Mokhber, an adviser to
+  Iran's supreme leader, said the Strait of Hormuz would not be reopened;
+  Brent crude traded up to about $97.71 a barrel on Friday.
